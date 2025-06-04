@@ -1,3 +1,5 @@
 Initial content
 Line from feature branch
 No-FF merge changes
+line 1
+line 2
